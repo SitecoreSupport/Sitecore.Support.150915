@@ -5,3 +5,5 @@ src/Sitecore.Support.150915/obj/
 *.pubxml
 *.user
 *.suo
+src/Sitecore.Support.Tests/bin/
+src/Sitecore.Support.Tests/obj/
