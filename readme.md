@@ -1,5 +1,5 @@
 # Sitecore.Support.150915
-WFFM field with non-latin characters in field name cannot be inserted into Send Email Message save action
+WFFM field with special characters in field name cannot be inserted into Send Email Message save action
 
 ## License  
 This patch is licensed under the [Sitecore Corporation A/S License for GitHub](https://github.com/sitecoresupport/Sitecore.Support.150915/blob/master/LICENSE).  
